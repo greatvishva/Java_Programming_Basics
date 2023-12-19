@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: "true"
+  is_correct: false
+- text: "false"
+  is_correct: true
+files:
+- name: src/LogicalBoolean.java
+  visible: true
+  encrypted_text: Ni0EqgGr6OdJxUZtnn3MCxi7VK0ro93BsH5toMexEwHSPY6m/dMtmvYg3KqU9WeHdpUwMOF32I04gnQfMwK3BWwEZLj9lfh1SFmFzSUdfD/jKwzf8XBOwYFdkE19l20HtPLoNe6uCMEVrwW7zqmX869mB1tb8Di/ydg5NczFyC5du2KiuNUhH8YWBD9worweLYGumQStxngBeaqD5X1sktTiteXRJOgEi9h0aDN3+UHMGRX6PMp4VSxgbqeayT+dXu44M+nfTMIfo02TV5nB+1QfHB9nEF1a9fDWKeoQ7hxHl6O4zaCuIiGqAtZh2Mlb
+  learner_created: false
+status: Unchecked
+record: -1
+local_check: true

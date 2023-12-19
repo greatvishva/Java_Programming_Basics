@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 1
+  is_correct: false
+- text: 2
+  is_correct: true
+- text: 4
+  is_correct: false
+- text: 5
+  is_correct: false
+- text: 8
+  is_correct: false
+files:
+- name: src/ConditionalWhileCounter.java
+  visible: true
+  encrypted_text: Vf450tskauyMJxuX3FuSg/kv/pobWMsgGUjsDa61bwK/haJfWg3w0wRFgDy5ZRcYYtzqckXh1KwWgSinn821NxW/nckWX3ho0hd1QhMCOfaSXErT9f0eLrTrkLNvha2+FTe7fmrZ/pxfBNy7hbkb1nIhdFSzSgqdGm3FWEJV02h9iZ9GfV3Xq6KXbZLAnFW1S/FuWMe9EVewgyKjsnVVU38H5lmFVAPkMMw22JMeOqL+9vflU02XtIAQuYDThLyCVrLivYy91hj6oRbzbTNRAmDAkdIrr/NLCcTg13Ni7+qrCMMPMlIyJUv6nqaorlbQvIJw2WBnk051tMji+tq3WmMUQ8i9ElO0WRxRlM0NWZDMXQsqP3RbK3VUL5gVSaTQMYv5XOv/YImlWOVIoJr5LBfArkgyFCzC8PKC4wyf0Fm3/tW68/6sYVhYaFdtBa47HfnY1YAhhc2XVeuFnAaSqg==
+  learner_created: false
+status: Unchecked
+record: -1
+local_check: true

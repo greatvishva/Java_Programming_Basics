@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: (t || !f) == (2*z <= z)
+  is_correct: false
+- text: (x >= y)
+  is_correct: true
+- text: -y/x == z
+  is_correct: true
+- text: (!t == f) != (y+z/x > x-y*z)
+  is_correct: true
+files:
+- name: src/BooleanExpressions.java
+  visible: true
+  encrypted_text: Haf8WdUKtwyHdsty4eMqLBndEoMRtuFM5M0z07OYQQa9OHX5fI8NEC61GmVivqOmJHea3iDS2DxA3z2KYtJ7BBv1PN6UWyEiV6RdouPrUey1PAFaIfJSpU/Gvy65te1XnbBgqLs9rj+kzkISXSGwZCY3yTJd2/5ABL1iyAY09BVey3bjdrbJQw6eU+HSnUAuwSacOmj0N/bmT4BfK4ztZA==
+  learner_created: false
+status: Unchecked
+record: -1
+local_check: true

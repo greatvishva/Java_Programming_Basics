@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Chained conditional
+  is_correct: false
+- text: Nested conditional
+  is_correct: true
+files:
+- name: src/ChainedVsNested.java
+  visible: true
+  encrypted_text: sj5n95ymcrCwjwiEBJ6ADmeRhWzJbsdTqFGHd38HfsKp3kHDtGPr2/5gt2W05Ed/tvsuYO9cVEK/whDOoCQjwjwgEDhx0j/26Y3zKjw90+vwB7K7QRm5aLwT8Lf23z+4BUu+gOv5feEvNaK/K6DxdX03OYl3NJ1UJIRMmVnQroGFK12ANLFel6KzrnGKnVnnqHhahu8h/rjcWtAxSVOO0jEbhSszzKEXfB2yv3qIHc7CEqhe9n/SLjFCQgaIXKEFg3lVAFx3JmqQR8bKOnMEEtJ5NTC9MORDfiIcmS9qtAWe4Vcx91IrQFaN3QZ5rvVGTyajJXkXb7nFUwPpv/uKMyNeNGe4nXH1+nINiFBYoXztu6jsscpFjhGV4Tx59OsLpq03OpSr040Iwt4dLYcwQHFE2KBw4LjBesqNFgmCY+CefOQ8GFGUK6zNK0ZBng3VNRbSDM6lKT29Ci6ndfulX9s0iVfoBKuvDS6wnH0dm7g=
+  learner_created: false
+status: Unchecked
+record: -1
+local_check: true

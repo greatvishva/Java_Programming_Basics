@@ -1,0 +1,25 @@
+type: output
+files:
+- name: src/CheckDivisible.java
+  visible: true
+  placeholders:
+  - offset: 105
+    length: 75
+    placeholder_text: |-
+      /* Set the appropriate condition. */
+            /* Write the desired message. */
+    initial_state:
+      length: 75
+      offset: 105
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: x2rsMSXrHZ71ul8ZIW9vrWsUdtlznukdupnXmhB1Ec7WZemY4l6wXeLk896RSGr/hhIMj37R6U7RH80cY+VsRKAjd0VSlWPxFWgbQTzu/2U8PUaMMtvBaWkCF/jr4p5PnBScJ1B2Oic8RKDXYT+S2A==
+  encrypted_text: xqnLMPLKCWGJlCTgq7v9bcTcYn7222SU6SMsfsxmroTUCGx1B/idWmF/dyYzv77YaXAa3YqXzZ21uHltapohmtoGEakK15Mx/acxaf2NDllix4XI7Nk0aU+EEWVax/fVePHL9Zzzq/+k1ONI0/QIGDQd7uHmx2miNQhOxopqAC537/dP7PyK8rVLpXyToQ0O8HEAEtfjfawi/QkLbSNN9qEtnQZ4Kr1Dd+J5v/+eiI1npVyGa/JSQcLXuGXnCEeuoA1M9UvVqU+7KESvkWJ8H5uEpxpBJlBf0AjG9xcSlgTadejDNgLv5gdL7uOza+H1X9pmesrg8DFx3JqSSg0Wgsx5KPOW8411+MmVwK/RwRXzrOEAoSKZw3c5Llz+Ii5Z
+  learner_created: false
+- name: test/output.txt
+  visible: false
+  encrypted_text: IqiZiMd1f8+OlurPgd7eez9GrFsHS5UF8LV0HvfzDbs=
+  learner_created: false
+status: Unchecked
+record: -1

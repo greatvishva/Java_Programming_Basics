@@ -1,0 +1,9 @@
+type: theory
+files:
+- name: src/FloatingPoint.java
+  visible: true
+  encrypted_text: NKadQzCf9BJA8hkVHdaF1AtFoyzuGAxNNFu5X1pkTBTCt4lBWMhrRg4hueLaThhZWoMjAGOQZR+a7N6DN5dfCVAfprWM7L3gEATZJ66vRV/9u//0WU259tDFzDF5xNYBebmgSatrg2xu3Vb7XfwaG05gAMomUFOJCAkcfE3c3JXHY667kEN7zD0MNmh3TKArJYv3UXRdBoRbAoY9FKxC+0DsylGDa6PceoNMmjbONYHUhbDajnttRGvIynOX3kNU7mtgSvlOjVHznWfG/qn4Ruhto05rUdFTzE9llK9dcYrUNbR6SBc98SVqJ2QANI8s9FCRyj/RpSMvgfBMuKVQ+J7noXivRGb9DGhuc+6pS2CfHzjAy8Bj88TG67DNRCsFN4u8n95DZA6Pn1sEKm4Frw==
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

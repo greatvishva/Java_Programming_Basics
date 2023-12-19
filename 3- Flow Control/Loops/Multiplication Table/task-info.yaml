@@ -1,0 +1,24 @@
+type: output
+files:
+- name: src/MultiplicationTable.java
+  visible: true
+  placeholders:
+  - offset: 107
+    length: 68
+    placeholder_text: /* Write a for loop to print the multiplication table of Number
+      3 */
+    initial_state:
+      length: 68
+      offset: 107
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: MKL0piHgw81xsqdsf+NSIF+dzEHhPPay9aPI8KZ10FmT7IwU5HP58/CaRPlAEaAXlxlQ5b0lZdxt3ua+L8whFH816/HZjh6us4W4ORcnOY8=
+  encrypted_text: Vfoc04NmYKumIDxbqkk5v9ETWTZAkrLxtVhGjrDx5e/qRGFPXFD/C8fp1282fdbTFGWqVFL51r6s+u2LOm20aylm9HFz2rCyw4fFAKNzN0zZdIVeG8paLVr//CX1B7SLPSExjx+eHnIOrO3Q0wVdR8xy1GpdhLlmEMK5kFiFH5N+Hukhd8mRect9F7aLepMICdmvou1aclpZL9WitNOR8MBU/IblXZ8IE+I76yiHs05cov8xtXfCOYKfGRmfH6Ax
+  learner_created: false
+- name: test/output.txt
+  visible: false
+  encrypted_text: /+HqXdtykp/4X/CwrUFiATT3W7B4XDBmy8eDAojNjc4=
+  learner_created: false
+status: Unchecked
+record: -1

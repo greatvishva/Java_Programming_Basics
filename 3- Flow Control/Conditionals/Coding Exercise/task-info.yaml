@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Number is a cube.
+  is_correct: true
+- text: Number is not a cube.
+  is_correct: false
+files:
+- name: src/Cube.java
+  visible: true
+  encrypted_text: NYgHoNruO3t7vIi6YFhoH3eA4NVdue6m+QnLkxXVALfnU117ir2w6pVcsq1SpNXV07oSss2M9FI9B7Fpm6vdH1fVCYg3CeFzoLQODpr1AKTDzf0Uq6JDSo/SqtKfxY3sYGUxh0V9nYfhqkmzGQYyNE6olcm3jwnpgOe/kfKa/iIQCYsICAjB0H9jBWNn6KWoOWcMafbTudeHfBwJqy5OjVWviE+DoI8ZbvcWWog4cJ4h3SJATy/LkaQqITF+xZ2ZoP5bCnlexlp1W6spDQl9MAEKjozw64FGdxxh+npSut+i5cnqVZ2IWAEzxDP3WrhFDLfmN1dUEw8aIEL3wnHVqCPqi1eAVLa3Hid4Pg2l1lXeQ267Fp6y2//M4w1n4q7UHyNrwMHZNZs66R6LHpt+Q1hNnRbXUPJ7OA9MDUfUDNFqO57lQyuQ79ir73hjT8GjaTod62QK2VaUQlwb1jmgkSkawkcDY03pZ/sVVEuTzpzCZsFKGhaFxsVXzItlLaI+fru1SLNoe7YZQNa3IFB/N4OjWWDNBbYTRXiTR179HF4l99sUYxn2t6NUnyeB9J4cBOT8yA+XWti7QeXf1Ti1qT0coP+zj5DRV+efQKbP18zuzBIBTztuXsHDsl9hTSbC
+  learner_created: false
+status: Unchecked
+record: -1
+local_check: true

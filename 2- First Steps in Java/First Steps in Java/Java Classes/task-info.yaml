@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: There is no main() method.
+  is_correct: false
+- text: The name of the class is incorrect.
+  is_correct: true
+- text: There is only one statement inside the main() method.
+  is_correct: false
+files:
+- name: src/JavaClass.java
+  visible: true
+  encrypted_text: wNg5UMlbMZRk/ZyPPKrPEZJCB/n4wocSi0ERjmhbmYiwv2bZo7WRK9HCvqskBYbG7Zr3DPEga0CJY/nLsTNUg/WtlCDxIesuTQxaxOy6gugtIPnLYlf/1Qu33qd8iFXh3fTzYMbIje2bKaFKoc9mP8tPeDNEdJaAMlHpM7mjzx7PAtvUsNOpE/oT0jFWb8Ku
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 01 Nov 2023 11:43:00 UTC"
+record: -1
+selected_options:
+- 1
+local_check: true
