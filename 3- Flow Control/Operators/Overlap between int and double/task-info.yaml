@@ -1,0 +1,9 @@
+type: theory
+files:
+- name: src/Overlapintdouble.java
+  visible: true
+  encrypted_text: pPw6NlO7Z3ExykD52Gw+o5WCb04kdXkRN95dxaFaG21K/e0JQY717omd3B0A7ubZuRxcUmzRuADqMeh8znbkr/64O6veuYAtnhrpunkl45t4TCV5d8rxFKu8iB2e1s0qQ6SEpo1yExw027Sc81YE+Esp8h6fU8N0n1A6ptcYfgKCjgaAVSXQKVOMnJ2OKNt2gdlhlbX020DgHxoV99qM3AVYGPTlZZdGOTjTfrYuMp18kGE8Jnh5xcmREfnnEPs8Juc0hwiUqJFZ336WAaHzkPcoQnFuR04q+DaZqg9o3IRdGv3XPNdtRvqw82YIMrvEAE/YKGGsSyNU7VUElwmSeV4cK7aLzUrwSSDiuOkCYijR0++ieRiow2or9MrGIpBQJtRiSeVC0Dr8TWSH6d6xPYEqRAS9P9UkWOY5HO7qXoPUbTHkw/OvhP+oBxoyw/osNkJ5QSWWBfEDydzbxibkfg==
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

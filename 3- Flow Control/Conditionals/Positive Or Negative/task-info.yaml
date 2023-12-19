@@ -1,0 +1,23 @@
+type: output
+files:
+- name: test/output.txt
+  visible: false
+  encrypted_text: J4A+vhEUYHdssFaiOaAM1g==
+  learner_created: false
+- name: src/PositiveOrNegative.java
+  visible: true
+  placeholders:
+  - offset: 113
+    length: 28
+    placeholder_text: /* Write your answer here */
+    initial_state:
+      length: 28
+      offset: 113
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 0S73LtCZPOC4XmOID7Ctnw==
+  encrypted_text: tuR/gJQek37jcEXNj8oxPs4YSNp1uDnbCALoBX6j5w3CAARPEfm1d7gJYXX/RntOlPttW8lm4MxUOds/8nXvVdhGekIf4R4ziaRnZelCicGTkczi0mh1DfK9qdmVrR14pLgaPZjPA1cGMle0C4YTn5VAonxSg+i/BSk/CLydqdaAgrsk4/14YUme9uttqK6YM8bTlWWdyB7vJF8PuKu05U6J+lBZeA3SSMybheOqW3GiG86N6+72mhT8BwSPav7EQuz4o+LT9wcY4nWfq+KB6Qpss1J7rZb9Cnb3E5b2Ergi0loFShOh8viHr8xLxhsic/knbpOCn6nWZlZiB2VTqjvfymmKPcI0C3LHaHFUYKojf9Z2XS49Z4zyCfzKjdQVGdTP8OBftpaCLx9LkeslaQ==
+  learner_created: false
+status: Unchecked
+record: -1

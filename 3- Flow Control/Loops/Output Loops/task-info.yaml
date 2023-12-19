@@ -1,0 +1,27 @@
+type: output
+files:
+- name: test/output.txt
+  visible: false
+  encrypted_text: 0gXaDb7S3jmNY1oLg0zkjAV3NQVdu/WATiz5LeVaeEF9SDuVlVMaZ8tCmaqcUYqe
+  learner_created: false
+- name: test/input.txt
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: src/StarLoops.java
+  visible: true
+  placeholders:
+  - offset: 97
+    length: 27
+    placeholder_text: /* Writ your answer here */
+    initial_state:
+      length: 27
+      offset: 97
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ReN6VvsXfSd+AlBRoDZecE28Od8vShxjnkjMJNEk56s8+5yDXlpXu+77iFf3E8sJSjnwclIbFfp+FnNXG4K9ixQvJ2F1fE2MnYpLlfDQhy3lnSkZem1aM9uvggcRQlGJvfi2DtJOIbMt+2gnPBhZ3piodXJqzpRsXquMdHqy4G84SMJ2CZLv5RDv0Ejn0wKd16vmkd7tYrzEumKDeB5BGTPPCtT5ac/D3QIZeY1Eot0=
+  encrypted_text: XFWGJ0zu+XsNl8fF3bhrWJocls/dbdAeziCx4QNOK9TpGshOmeHjI8YuPSVPRYssZq518wFQuyilkQ2jN+BIIEphD+QKQXLWy7lis3BlGDdNyGv2KqtRaIR/sxrwWzpyrrw2lstlkjRIAwcWr6mPrb+ce5otX5lrYUiBvm/LIu5Eh2DhpUNyvOjiQXAjLU2Y
+  learner_created: false
+status: Unchecked
+record: -1

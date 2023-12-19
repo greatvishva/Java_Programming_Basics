@@ -1,0 +1,12 @@
+type: theory
+files:
+- name: src/NestedConditionals.java
+  visible: true
+  encrypted_text: A76buXRetDiz543kw6ll5A2Tb4wPFzWcZrbgAc0OGUjQKaU6E3rpjiC2G2nf0GUI0U+E9PkhuftY2VPio/PG1pwv11ArFQvpdzofpKwR/vAw/4ZSNYr7EvrkFw9ohwYCAR7NDFxlkW9HvJCR33brmcXY3o/6x06jPFE//tzOL6rnZ+Hkq+8SBznUY0nI0Ipva0YdSaKpsPIRzQzhhEj9Q73V/JZeVGqa4h1r4G3hiLc9H12e6RnKxkQ1WBsMt8U1S6xQU0V1WoibEGy43reYjqK5C/7seVb7RtTdP5TaxcxP5+3uucWW6ZDXsSxhaNc4zHMF26jz1HsAUSXgeyP3nHTgqkZkT2H/XfdzYKE4S327fniitPv3rCPRQre9vF1RMC3nNrz4uHWuaqV8voM6Sxxc/u4uSNOfvKt2IlOQynkip/Cu9hSUGFGb/8czTYF9QHZ1CZLT+SODvxjathlBSvk88iYsFPSshHvxvkda9IoU9PRm+Y+YHRNZkScnAlM+Jp9TM87KSu3IDC/cwQNhDByRkCOjbtxpa878VP4yr1s=
+  learner_created: false
+- name: img.png
+  visible: true
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

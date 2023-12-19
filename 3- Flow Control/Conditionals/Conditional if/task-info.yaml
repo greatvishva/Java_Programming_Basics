@@ -1,0 +1,9 @@
+type: theory
+files:
+- name: src/Conditionalif.java
+  visible: true
+  encrypted_text: Vf450tskauyMJxuX3FuSg8tsJaFgtRwct6hqKYb4LFL0jgLX3bsK2epYtbjuslxc3aoiVCll6c2xtut/uoDYR+lMAJg1hHI3ra79nrtqUpbZKwrPFTAZr8+q6PGedexLzXJ/gjXuzqMSB+HGwafP4hU5F/nbV2fExl+l4z2yUJcRY6EVc77AByeljM2lHhC3HWgBiapOCH3tgmixkP7DD4M/Kf2i3YiQaLGpvJet8v45quMXXXtQEtndoz4xMvzs
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

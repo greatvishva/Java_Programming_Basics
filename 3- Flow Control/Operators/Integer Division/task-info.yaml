@@ -1,0 +1,9 @@
+type: theory
+files:
+- name: src/IntegerDivision.java
+  visible: true
+  encrypted_text: h4EZPYsUHCE/KVaK8fwaAXTQ9H75sbKEOy+3wPHno+Lf3tUhbNWcKQaPeEE72xeS+O6zbbi5c6SI5eYxQYzVca/OjSatDFkjV485NWdC+NR6FLW7tGTq9rFC/eMz/ZwxALDDWLYpwio0/rChpoMYlKGoTHr8P3yk/v3cRwUtyM9Fdc5qsJOPV7o8JehnOBAoeoatM4BGZyRjvmOYRJX/pESjNiA2f5Qmrwl5EQg8XJZs9U9mh4J6GlhBxvHFQ6bxy2QCge+RdVXqBuuPuc8SXJ7ZwPGtTjFwqADfkBnhtTF83U1f/fZTZjO0cLDtgMiYw0VDxSYgshL/cpsdn8d93SOf3jJuvGN1JHvi6wGxwC4rm4lYNMl0WFbG4lUnJCz11wf39wO7dIFGKfbxnCsya3Dpo7eH4jPo2b7nAO0Iz2fJ2shIRvmwmO8r7cQPyfhGywVq79svKFUr4ZhNBd2lXKnWH/rWZGYv/PU1hBsmtWzmgLCbZw8Mvz1qvAAugRJi
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

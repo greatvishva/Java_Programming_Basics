@@ -1,0 +1,32 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: children/families
+  is_correct: false
+- text: (double) children / families
+  is_correct: true
+- text: children/(double)families
+  is_correct: true
+- text: double (children ) / double (families)
+  is_correct: false
+- text: (int) children / families
+  is_correct: false
+files:
+- name: src/ChildrenPerFamilies.java
+  visible: true
+  placeholders:
+  - offset: 235
+    length: 27
+    placeholder_text: /* Children per Families */
+    initial_state:
+      length: 27
+      offset: 235
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: MJMlA8EqBbmLDkzAIeid2oNpM2eFL6i4FaD+bwEm6hM=
+  encrypted_text: 9st6HjAPjXQU8yrwcis9ixWSaX3rserQTnfuap3PsrDZe7FZY6hST368+Ptmkiua/sO0BJgW9pwTUc3+tKa6i+jNGtFrNLY0I68QqN9OHRt50QXXU8CX4M06DaYf3phGr1OCIHewoC7Wf4vLNc4LTA34geiaNLmvs17j0W6KbQKuBU6ZRl8Mh3lHc2GWqQHCTkjDnII3UKZqdvQ94jdqInNdK8mZp7T8wYlDEVbiBAmPaj5egY8EnVvUt1wQdEU6JnIDsWcA2gBpJJsdQQNEMyy363aSxNy9A+WoDPY5xPIsTQbfXU3tS3GI+UgDwKxqIheD7brWKEJ2TPKbx2xzTncOSXlFtmiTjGr/+Hey98I=
+  learner_created: false
+status: Unchecked
+record: -1
+local_check: true

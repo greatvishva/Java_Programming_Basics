@@ -1,0 +1,9 @@
+type: theory
+files:
+- name: src/ClassName.java
+  visible: true
+  encrypted_text: sT+ZIVjoWAwFgvF3PyT3pbzgY2VOSdQxD48QouVSApoNtzwYqKSYAz+JCsogy5nFBkOfgxfMTuMd05ST9G14uKzaX9+/7m668RM/GbMGwKppz+hVK122bj6N7hDKm2vWR5IQyesUb60fDK9q7macnDDJ7seIeP4YeRQmNpw0X8w=
+  learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

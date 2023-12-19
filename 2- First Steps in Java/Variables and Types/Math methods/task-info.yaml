@@ -1,0 +1,9 @@
+type: theory
+files:
+- name: src/MathMethods.java
+  visible: true
+  encrypted_text: iYnvpAWsX411DMnxCORI+8gbJghvYdbjqVVTv/15g9pZCQf/Vag4B7ir0Q9Kc2M8BHHVAXQf52OGHGagO7IC0rcbMAcHQAq9OjLaFG+rqY1AwRH/vjDYCt5KaGK01xdS1390R9BUzw1NZxyj7lS3xHWawf7Hl/O24X2pqKxXzz1oUQ+del/9oIGhB4prqWkcxAg3XhbE3+zyOic1EOf8sZ+/SQOv9hj8tSvmdRILYWKRK1/2TcCyvz9x2J6sggoeUM/3N/lhY1tb27hBRtpM4mts2VI6++BCNUTp1LzJxV7MUL5WZAgfVfbjNmvdoiUsfCVVT4P3Iq7E1NHI+FQOCT+KO2uUwVcXajat0xGCRUh89lrVvtXVwi+mVfiVoFOWonsDnrCFl34U5qBhp+/h4OY3GH1qCxe80IvV6hSRX1Ig0ADGg3wPfug8OIxPVaYnRw37XYkG0AFsXnuJazRpyEAEDq+7Hkhjt8zNTcNj7Tu0ON/PcYj//qEYqwifuEv8VtfYavh9MNYXlq8YGTwFfW1wKHRedBilHeGEBTll7uQHSS/guHTDMxq79NB7NlynYG7ZO90u8Yc0T0sD+g+WGnjSN/il+71S+upJ2DQFI0I=
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

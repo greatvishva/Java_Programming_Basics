@@ -1,0 +1,27 @@
+type: output
+files:
+- name: src/CoffeeShop.java
+  visible: true
+  placeholders:
+  - offset: 140
+    length: 27
+    placeholder_text: /* Type your answer here */
+    initial_state:
+      length: 27
+      offset: 140
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: OkQ/HdqF0t9EBEX5OU2rLzoagU0k5ZocklCF2vOaFaoeJatNlTwhRVs4SY7LrjhhMi8sWUPEH07k399s49kP9eOWwhNnRs25vKMTPaD1UIa2kRzCHO+/ksuMoHHVoDdpfg53fA6WdiTDngQyC8a5zg==
+  encrypted_text: MEu0cc1T4TE1QG47iCQY6a19bYKU/8dDoRboeaUb2SjVFgbPPS+JkhUkvI2FAqXDDCWwoDSFFBhUylHd0MeQdGTO7gWTaUU3ubTN/H5qPhku2nByO+9AXbhmuhBEk74+9avjx2PbymqKSIx8OTH7XvuxkmH1xxZWTaAFAlWfaeVtYvBXH+wdX3RYHP/uZzYHx8MWdITOAhrOFjArLr9myw5BnWXm8VnWLWhaikKCubEPhZHMcuWey7cFVucdQQCeqlKpjx24JhSlrODCOVrb2MoNjkGVg1c/eAUg9T6U31jZEHyIGAdKtLYxkW3nN5RGWC+GjHthGR1C9hQXsXHHnk3gZwzsp1p5SwqEeZGbVsxDj0RgQeBAdoXA6RL02+EiVp5mvP4qJq9xzpSzwnqoNSiL92Ep5iTtVrs0TMEVx1gyYqLLow89puPbdMmfy5RZwLqJXC6VK1nc/ZTMsnLbZL8OLA9S/QR3a04F0emdhvpr+0ME1JL4Mzud/w7ra84Ir12gEqchTHfLT91qL34i25V7QYDHcj1tkzbOlsBW5fMIm8MIApz8kU8v7fEw+zy4yaFAqeScuoEPFyTGl63fbCdgmitFXKSSs1Z0YtSd9H4=
+  learner_created: false
+- name: test/output.txt
+  visible: false
+  encrypted_text: 43+EXXZ5iOxvsB5Gj6E/ue6gLWT7XrhaE7SPj1K5LfLUvF6kCvrl0eXbcuYkBxKXR9lhIn5E6dBFEtHfRP1vwMT1maZr1iubuhgS9LvJS4T5mSsy5NACBYcmVW7IgdkUKORWW40W8xQN9j5TiJO7CchGQ3BzcaLXIvBiFaIUZxU=
+  learner_created: false
+- name: test/input.txt
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

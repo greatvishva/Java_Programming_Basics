@@ -1,0 +1,15 @@
+type: theory
+files:
+- name: src/PositiveNegativeZero.java
+  visible: true
+  encrypted_text: tuR/gJQek37jcEXNj8oxPrxua/XTxHQNAGrsKFFqwD/3HhwloqJOm+ZP0T5X1Ch9NFr/XtOp/H26JdLMEoYLyvBbJTR61nx48qa+Dt1MwnHnAv5bS6/K9fCHDmFe4u6Ik2dKEucT8M+GqCSsGOEFjUe1Kyd5TRMOXKgZ85Cd/02ZkgLj1ZJkfZhpthJ59xlGz6/eob14KYKgRrI6Bv2RB6ASB0KMdqhG8ZrL3qVJEw+Fmv2u/lkNB4gxcXTD3qQX8AQJyloqvxB0+JRbcr+ps90z1jijKXPGPupXaaUbCEItlAumvD0MaAjrYTVkm3UwmlbO3jipiC4MHM3SAIrH65QUOkHyzZxgSKyiBkPIbPaCyhKRFW7mwfi8ZV3EjAoOtgY6d/FA/OF6IIxhqiP/nHmLVbSUUoRG3A8h9Z10jeC5ZfubMrNUXlXvzq+bN1wt7PM4Ez2Lz4nQTM4S2MS2RDFled1/WP9xgcCS3MPSSa8=
+  learner_created: false
+- name: Picture1.gif
+  visible: true
+  learner_created: false
+- name: img.png
+  visible: true
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

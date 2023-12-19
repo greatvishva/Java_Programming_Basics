@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/JavaProgram.java
+  visible: true
+  encrypted_text: /HT4W/u7zoTEKE8hKKOw9dPBKFrl7bJQHnDF7YSRYWwWP6EG/A4QAzSLy878NYRTdISoHv9wYivxuv4bB7AewJ0S5KHsnsQL8Re5gjN1ft21GG+akF+Dhv/ULwy3p357/ye/PLhLdPZPDVTZHKaEhx80+/4dZh8AKfKRmUlw1CJp82a7Mern7Ruv6ChdmILFxAqrpnT58QDL6t6nl+cduXY3uASZncRWxZX8Q/Pqcy9v9r88U14MZsF54t/Z8UyR
+  learner_created: false
+- name: img_1.png
+  visible: true
+  learner_created: false
+status: Solved
+feedback:
+  time: "Wed, 01 Nov 2023 11:43:12 UTC"
+record: -1
+post_submission_on_open: true

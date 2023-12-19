@@ -1,0 +1,11 @@
+type: theory
+files:
+- name: src/PrintingStatements.java
+  visible: true
+  encrypted_text: G+6rMpgwK8XB6UDouZyL5+JfwlOKlCSgMrOPdwoP4Pf7No6lqnnLcRNo7o3eTEjgpomI4P9sRUqSPODD1k08LgJzUi7TwjEDZBKl1VMA9IBroqC/B4visM+OgXA1rYoVo4c9ntFSRDUO77G0r4G9LW0CzYwR2FN2xJuk3l5ZeuFyINbLDbWumVnksW1dgyBTatCGCOtcocMcoMUQqFU/V18TkbC/oCNeOcV1blIKskYNPyKCYkrYSwVaNxYwg7/AyqtrmS+SvQpSpqzeQMwFPoYpelmki+UcOi5Dmbj7oVB9PhJeXOOIm8i6dRBQq0ITDiwrqfwNhYSOxQediMThDwVWrEKSew34vUHKx3ZLnG+3s/XsYQUyb4bKBuPVASnt3bU5L3lmKKVybY7OYhiKKVm//FD2h5arsMOEV/7olRiFG5jswxxp/SIFZAvrcrID3829eeK7BokejWK2k279GQ==
+  learner_created: false
+status: Solved
+feedback:
+  time: "Thu, 30 Nov 2023 02:47:58 UTC"
+record: -1
+post_submission_on_open: true

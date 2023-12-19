@@ -1,0 +1,12 @@
+type: theory
+files:
+- name: src/WhatisProgram.java
+  visible: true
+  encrypted_text: LMFcfo+gmJjFq0s2IfZG3RvhM0H5UqjFx4Yc9/7QhFhbsRYBndmIBKaoy1WQzXSGGFZlbw3Cd5XT0jZWkeN+N2BPpmjwF+sHtHUmiCAju8CSwAbZRtzrrkSe7hGCddnqeKeFN1et6NOVCXqv/OCTpw==
+  learner_created: false
+- name: img.png
+  visible: true
+  learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 9
+  is_correct: false
+- text: 11
+  is_correct: false
+- text: 12
+  is_correct: false
+- text: 10
+  is_correct: true
+- text: 13
+  is_correct: false
+- text: Error
+  is_correct: false
+files:
+- name: src/Main.java
+  visible: true
+  encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw43WEeYUPwkTTfJeBk0jZT08vgNx9YQilVhlDt/eoaJqH5p+AjWYW8SkdA+zZQ7sF8p3yyhocPBMGZl91fT2lNx7a2F3zUXmB+c3G9SpVUBlIq/+GD0vEnHRoHkoFBDJWdbjsVOxobjPyLesmj5AZI/EPNrZ6YTjx0s1AY+zWeSOeinXB1aZC8/0Pz6TPNUD3ph9yREDEIc+czmjlIxsODG9Kx7xG6GXgQlGRRAJZY03lxoZUTX7BOwq6kdrLpL8yvX1jYrqZlnt5aWxCFs52/UZgx6MNcREwvjrwuH37noUpiIk5XDI3FmTZ5h2tvf0tQ==
+  learner_created: false
+- name: test/output.txt
+  visible: false
+  encrypted_text: SC29kafQ2ubrToDjkSDVZw==
+  learner_created: false
+- name: test/input.txt
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1
+local_check: true
